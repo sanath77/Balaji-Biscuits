@@ -1,3 +1,6 @@
 Happy-Happy -- 110
 Parle-G     -- 55
 Good day    -- 55
+
+Mango bite  -- 45
+Melody      -- 45
