@@ -8,3 +8,6 @@ Melody      -- 45
 ahsa        --35
 abcd        --55
 cd          --50
+
+Sandles  -- 150
+bangles  -- 100
