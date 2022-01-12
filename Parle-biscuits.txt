@@ -5,3 +5,6 @@ Good day    -- 55
 Candyman    -- 135
 Mango bite  -- 45
 Melody      -- 45
+ahsa        --35
+abcd        --55
+cd          --50
